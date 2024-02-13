@@ -4017,19 +4017,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Avtamonova.A.A\\.nuget\\packages\\": {}
+    "C:\\Users\\anuk\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Avtamonova.A.A\\Desktop\\Avtamonova 02.02\\Avtamonova\\Avtamonova.csproj",
+      "projectUniqueName": "C:\\Users\\anuk\\Desktop\\1\\Avtamonova\\Avtamonova.csproj",
       "projectName": "Avtamonova",
-      "projectPath": "C:\\Users\\Avtamonova.A.A\\Desktop\\Avtamonova 02.02\\Avtamonova\\Avtamonova.csproj",
-      "packagesPath": "C:\\Users\\Avtamonova.A.A\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Avtamonova.A.A\\Desktop\\Avtamonova 02.02\\Avtamonova\\obj\\",
+      "projectPath": "C:\\Users\\anuk\\Desktop\\1\\Avtamonova\\Avtamonova.csproj",
+      "packagesPath": "C:\\Users\\anuk\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\anuk\\Desktop\\1\\Avtamonova\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Avtamonova.A.A\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\anuk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
